@@ -13,3 +13,9 @@ Analyze FDA recall data and build an AI-powered regulatory intelligence system.
 - data/ → raw datasets
 - notebooks/ → analysis scripts
 - app/ → dashboard & AI app
+
+## 🚀 Live Demo
+
+📊 FDA Recall Intelligence Dashboard (Streamlit App)  
+👉 https://fda-recall-ai-dashboard.streamlit.app/
+
