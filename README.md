@@ -1,21 +1,77 @@
-# FDA Recall AI Project
+# 📊 FDA Recall Intelligence Dashboard (AI + Data Analytics)
 
-## Objective
-Analyze FDA recall data and build an AI-powered regulatory intelligence system.
+An interactive data analytics and AI-ready dashboard built using **Python, Streamlit, and FDA open data** to analyze healthcare product recalls.
 
-## Tech Stack
+---
+
+## 🚀 Live App
+👉  https://fda-recall-ai-dashboard.streamlit.app/
+
+---
+
+## 🎯 Project Objective
+To analyze FDA recall data and identify:
+- High-risk product categories
+- Companies with repeated recalls
+- Trends in healthcare safety issues over time
+
+---
+
+## 🧠 Key Features
+- 📊 Interactive Streamlit dashboard
+- 🔍 Filter by Company and Product Type
+- 📈 Visual trends (recalls over time)
+- 🏢 Top recalling companies analysis
+- 📦 Product category risk distribution
+- ⚡ Clean data pipeline using Pandas
+
+---
+
+## 🛠️ Tech Stack
 - Python
 - Pandas
 - Streamlit
-- OpenAI API
+- Plotly
+- Git/GitHub
 
-## Project Structure
-- data/ → raw datasets
-- notebooks/ → analysis scripts
-- app/ → dashboard & AI app
+---
 
-## 🚀 Live Demo
+## 📂 Project Structure
+fda_ai_project/
+│
+├── app/
+│ └── app.py
+├── data/
+│ └── recalls_raw.csv
+├── notebooks/
+├── requirements.txt
+├── README.md
 
-📊 FDA Recall Intelligence Dashboard (Streamlit App)  
-👉 https://fda-recall-ai-dashboard.streamlit.app/
 
+---
+
+## 📊 Sample Insights
+- Identifies top companies with highest recall frequency
+- Tracks yearly recall trends
+- Highlights dominant product risk categories
+
+---
+
+## 💡 Future Enhancements
+- AI-powered recall summarization (LLM integration)
+- RAG-based FDA Q&A chatbot
+- Risk scoring model for recalls
+
+---
+
+## 👨‍💻 Author
+Humera Anjum 
+Aspiring Data Analyst | AI + Healthcare Analytics
+
+## 📸 Dashboard Preview
+
+### Main Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Trends Analysis
+![Trends](assets/trends.png)
