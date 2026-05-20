@@ -38,7 +38,7 @@ To analyze FDA recall data and identify:
 
 ## 📂 Project Structure
 
-
+```text
 fda_ai_project/
 │
 ├── app/
@@ -48,7 +48,7 @@ fda_ai_project/
 ├── notebooks/
 ├── requirements.txt
 ├── README.md
-
+```
 
 ---
 
