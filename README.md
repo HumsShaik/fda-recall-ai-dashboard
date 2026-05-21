@@ -3,6 +3,24 @@
 An interactive data analytics and AI-ready dashboard built using **Python, Streamlit, and FDA open data** to analyze healthcare product recalls.
 
 ---
+## 💼 Business Value
+
+This dashboard helps identify:
+- High-risk healthcare product categories
+- Recall frequency trends
+- Companies with repeated compliance issues
+- Potential consumer safety concerns
+
+---
+
+## 🤖 AI Features
+
+- Semantic recall search using TF-IDF
+- AI-like intelligent query assistant
+- Risk scoring engine for recalls
+
+---
+
 
 ## 🚀 Live App
 👉  https://fda-recall-ai-dashboard.streamlit.app/
@@ -77,3 +95,7 @@ Aspiring Data Analyst | AI + Healthcare Analytics
 
 ### Trends Analysis
 ![Trends](assets/trends.png)
+
+📜 License
+This project is for educational and research purposes only.
+
